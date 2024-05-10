@@ -1,0 +1,2 @@
+nama = "sepri"
+kelas = "x"
